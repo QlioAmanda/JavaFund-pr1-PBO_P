@@ -12,7 +12,6 @@ Berikut adalah rincian program yang ada dalam repositori ini beserta fungsinya:
 Program pengenalan sederhana yang menampilkan pesan sambutan dan menggunakan perulangan (loop) dasar.
 > **Output:**
 > ![Screenshot Welcome](assets/welcome_ss.png)
-> *(Ganti `assets/welcome_ss.png` dengan path gambar screenshot kamu)*
 
 ### 2. Soal 1: Byte Overflow (`Soal1.java`)
 Mendemonstrasikan apa yang terjadi ketika tipe data `byte` melebihi kapasitas maksimumnya (overflow).
@@ -76,8 +75,11 @@ Pastikan kamu sudah menginstal **JDK (Java Development Kit)** di komputermu.
    | **Constants 2** | `javac Constants2.java` | `java Constants2` |
    | **Strings** | `javac Strings.java` | `java Strings` |
 
-👤 Identitas Pengirim
-Nama: Qlio Amanda Febriany
-NIM: 241511087
-Kelas: 2C
-Prodi: D3 Teknik Informatika
+## 👤 Identitas Pengirim
+
+| | |
+| :--- | :--- |
+| **Nama** | : Qlio Amanda Febriany |
+| **NIM** | : 241511087 |
+| **Kelas** | : 2C |
+| **Prodi** | : D3 Teknik Informatika |
